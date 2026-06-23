@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation and Remediation](https://github.com/Oxidation4179/Vulnerability-Management-Program-Implementation)**
 
-- **[vulnerability-remediation on win11](https://github.com/Oxidation4179/vulnerability-remediation))**
+- **[Vulnerability-remediation on win11](https://github.com/Oxidation4179/vulnerability-remediation)**
    
 <!--## 🚨 Threat Hunting and Security Operations
 
